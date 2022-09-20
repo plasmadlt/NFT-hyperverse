@@ -1,2 +1,2 @@
-# NFT-hyperverse
-Professional NFT Dashboard
+# NFT-Hyperverse
+Professional NFT Analytics Dashboard, Trading Platform and Aggregator
